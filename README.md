@@ -1,6 +1,6 @@
 # Detection project (Deep Learning School)
 
-This is the project about object detection i made. The notebook contains full detection pipeline using pytorch and SSD300 detector. All key information is in pipeline.ipynb
+This is the project about object detection i made. The notebook contains full detection pipeline using pytorch and SSD300 detector. All key information is in pipeline.ipynb (It's better to use colab just because i use google drive)
 
 ## Some examples
 
